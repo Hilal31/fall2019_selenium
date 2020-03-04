@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d46076af-70e5-4f36-a493-e5ee8a017f99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YUzLTaOigNzphR2UVBdGCB15f8" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cybertek.tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BookitWarmup">
+    <configuration name="BookitWarmup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day2_Locators.BookitWarmup" />
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day2_Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EtsyTitleVerify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day1_Navigation.EtsyTitleVerify" />
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day2_Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyEtsy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day1_Navigation.MyEtsy" />
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day2_Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day1_Navigation.VerifyURL" />
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day2_Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VrifyURLOfPracticeWeb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day1_Navigation.VrifyURLOfPracticeWeb" />
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day2_Locators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BookitWarmup" />
+        <item itemvalue="Application.MyEtsy" />
+        <item itemvalue="Application.VrifyURLOfPracticeWeb" />
+        <item itemvalue="Application.VerifyURL" />
+        <item itemvalue="Application.EtsyTitleVerify" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d46076af-70e5-4f36-a493-e5ee8a017f99" name="Default Changelist" comment="" />
+      <created>1583011904760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583011904760</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="114" key="#Project_Structure" timestamp="1583096584904">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="319" y="114" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1583096584904" />
+    <state x="324" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583279469182">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="324" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1583279469182" />
+    <state width="1396" height="244" key="GridCell.Tab.0.bottom" timestamp="1583099519887">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583099519887" />
+    <state width="918" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583093237175" />
+    <state width="1396" height="244" key="GridCell.Tab.0.center" timestamp="1583099519885">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583099519885" />
+    <state width="918" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583093237174" />
+    <state width="1396" height="244" key="GridCell.Tab.0.left" timestamp="1583099519884">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583099519884" />
+    <state width="918" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583093237173" />
+    <state width="1396" height="244" key="GridCell.Tab.0.right" timestamp="1583099519886">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583099519886" />
+    <state width="918" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583093237175" />
+    <state x="257" y="102" key="Maven.ArtifactSearchDialog" timestamp="1583275438882">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="257" y="102" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1583275438882" />
+    <state x="257" y="122" key="Maven.ArtifactSearchDialog/0.23.1440.877@0.23.1440.877" timestamp="1583090941838" />
+    <state x="228" y="79" key="SettingsEditor" timestamp="1583275684874">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="228" y="79" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583275684874" />
+    <state x="228" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583012996089" />
+    <state x="411" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1583259756272">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="411" y="281" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583259756272" />
+  </component>
+</project>
