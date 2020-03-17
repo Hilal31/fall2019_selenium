@@ -17,24 +17,26 @@ public class MyEtsy {
         4. save the Etst Title in a String
         5. Navigate back to previouse page
         6. Verify the title is same as step 2
-        7. Navigate forward to previoud page
+        7. Navigate forward to previous page
         8.Verify the title is same as step 4
 
          */
 //step 1 go to google
         driver.get("HTTPS://www.google.com");
 
-        //maximize window
+        //maximize window-step 2
         driver.manage().window().maximize();
         String GExpectedTitle="Google";
 
+        //step3 go to Etsy
         Thread.sleep(3000);
         driver.navigate().to("https://www.etsy.com/");
-
+        //step 4 save the Etsy Title in a String
         String etsyExpectedTitle="etsy-shop for handmade";
+        //step5 Navigate back to previouse page
         driver.navigate().back();
 
-        //step
+        //step6 Verify the title is same as step 2
         String actualGoogleTile=driver.getTitle();
 
         if(etsyExpectedTitle.equals(actualGoogleTile)){
@@ -44,8 +46,10 @@ public class MyEtsy {
             System.out.println("I expect"+ etsyExpectedTitle);
             System.out.println("actual result"+actualGoogleTile);
         }
+        //7. Navigate forward to previous page
         driver.navigate().forward();
 
+        //8.Verify the title is same as step 4
         String etsyActualTitile = driver.getTitle();
         if(etsyExpectedTitle.equals(etsyActualTitile)){
             System.out.println("pass");
