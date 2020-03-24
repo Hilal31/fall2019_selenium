@@ -11,11 +11,10 @@ import org.testng.annotations.Test;
 
 public class RadioButtonTest {
     WebDriver driver;
-    private WebDriverFactory WebDriveFactory;
 
     @BeforeMethod
     public void beforeMethod(){
-        driver= WebDriveFactory.getDriver("chrome");
+        driver= WebDriverFactory.getDriver("chrome");
         driver.get("http://practice.cybertekschool.com/radio_buttons");
     }
     @AfterMethod

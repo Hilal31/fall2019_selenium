@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46076af-70e5-4f36-a493-e5ee8a017f99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebElement/ListOfElementsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebElement/OrderOfTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_actions/ActionsClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_actions/JavaScriptExecutorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_pops_tabs_alerts_iframes/PopupAndAlertsExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebElement/DisabledAndDisplayedTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebElement/DisabledAndDisplayedTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebElement/ListOfElementsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebElement/ListOfElementsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebElement/RadioButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebElement/RadioButtonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,31 +56,18 @@
       <recent name="com.cybertek.tests" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ListOfElementsTests.listOfRadioButtons">
-    <configuration name="Amazont2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day7_review.Amazont2" />
+  <component name="RunManager" selected="TestNG.ActionsClassDemo.dragDropEx">
+    <configuration name="ActionsClassDemo.draAndDrop" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.day7_review.*" />
+          <option name="PATTERN" value="com.cybertek.tests.day11_select_actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckboxwsTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.WebElement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.WebElement" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.WebElement.CheckboxwsTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day11_select_actions" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day11_select_actions.ActionsClassDemo" />
+      <option name="METHOD_NAME" value="draAndDrop" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -84,7 +75,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisabledAndDisplayedTests.disabledTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ActionsClassDemo.dragDropEx" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day11_select_actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day11_select_actions" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day11_select_actions.ActionsClassDemo" />
+      <option name="METHOD_NAME" value="dragDropEx" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActionsClassDemo.hover2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="fall-2019-selenium-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day11_select_actions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day11_select_actions" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day11_select_actions.ActionsClassDemo" />
+      <option name="METHOD_NAME" value="hover2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListOfElementsTests.checkButton" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="fall-2019-selenium-project" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +120,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests.WebElement" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.WebElement.DisabledAndDisplayedTests" />
-      <option name="METHOD_NAME" value="disabledTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.WebElement.ListOfElementsTests" />
+      <option name="METHOD_NAME" value="checkButton" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -120,31 +147,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioButtonTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="fall-2019-selenium-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.WebElement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.WebElement" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.WebElement.RadioButtonTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ActionsClassDemo.dragDropEx" />
+        <item itemvalue="TestNG.ActionsClassDemo.draAndDrop" />
+        <item itemvalue="TestNG.ActionsClassDemo.hover2" />
+        <item itemvalue="TestNG.ListOfElementsTests.checkButton" />
         <item itemvalue="TestNG.ListOfElementsTests.listOfRadioButtons" />
-        <item itemvalue="TestNG.DisabledAndDisplayedTests.disabledTest" />
-        <item itemvalue="TestNG.CheckboxwsTest.test" />
-        <item itemvalue="TestNG.RadioButtonTest.test2" />
-        <item itemvalue="Application.Amazont2" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584808125310</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="listelements">
+      <created>1584815838970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584815838971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,7 +200,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testDisabled" />
-    <option name="LAST_COMMIT_MESSAGE" value="testDisabled" />
+    <MESSAGE value="listelements" />
+    <option name="LAST_COMMIT_MESSAGE" value="listelements" />
   </component>
   <component name="WindowStateProjectService">
     <state x="319" y="114" key="#Project_Structure" timestamp="1583096584904">
@@ -205,41 +222,41 @@
     </state>
     <state x="507" y="334" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900@0.0.1440.900" timestamp="1584198228611" />
     <state x="507" y="348" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.877@0.23.1440.877" timestamp="1583881042112" />
-    <state x="326" y="46" key="CommitChangelistDialog2" timestamp="1584808124254">
+    <state x="326" y="46" key="CommitChangelistDialog2" timestamp="1584815838546">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="326" y="46" key="CommitChangelistDialog2/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584808124254" />
-    <state width="1396" height="2" key="GridCell.Tab.0.bottom" timestamp="1584815200464">
+    <state x="326" y="46" key="CommitChangelistDialog2/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584815838546" />
+    <state width="1396" height="284" key="GridCell.Tab.0.bottom" timestamp="1584905079826">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="2" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584560561350" />
     <state width="1876" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583465627890" />
     <state width="711" height="166" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584375757915" />
-    <state width="1396" height="2" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584815200464" />
+    <state width="1396" height="284" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584905079826" />
     <state width="1396" height="220" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1584494694687" />
-    <state width="1396" height="2" key="GridCell.Tab.0.center" timestamp="1584815200459">
+    <state width="1396" height="284" key="GridCell.Tab.0.center" timestamp="1584905079824">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="2" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584560561348" />
     <state width="1876" height="374" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583465627887" />
     <state width="711" height="166" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1584375757914" />
-    <state width="1396" height="2" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584815200459" />
+    <state width="1396" height="284" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584905079824" />
     <state width="1396" height="220" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1584494694681" />
-    <state width="1396" height="2" key="GridCell.Tab.0.left" timestamp="1584815200457">
+    <state width="1396" height="284" key="GridCell.Tab.0.left" timestamp="1584905079822">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="2" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584560561347" />
     <state width="1876" height="374" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583465627886" />
     <state width="711" height="166" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1584375757913" />
-    <state width="1396" height="2" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584815200457" />
+    <state width="1396" height="284" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584905079822" />
     <state width="1396" height="220" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1584494694679" />
-    <state width="1396" height="2" key="GridCell.Tab.0.right" timestamp="1584815200461">
+    <state width="1396" height="284" key="GridCell.Tab.0.right" timestamp="1584905079825">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="2" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584560561349" />
     <state width="1876" height="374" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583465627889" />
     <state width="711" height="166" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1584375757914" />
-    <state width="1396" height="2" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584815200461" />
+    <state width="1396" height="284" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1584905079825" />
     <state width="1396" height="220" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1584494694685" />
     <state width="1396" height="69" key="GridCell.Tab.1.bottom" timestamp="1583774531351">
       <screen x="0" y="0" width="1440" height="900" />
