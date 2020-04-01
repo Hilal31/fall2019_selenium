@@ -19,6 +19,15 @@ public class PopupAndAlertsExamples {
       //  driver.quit();
     }
     @Test
+    public void test(){
+        driver.get("http://practice.cybertekschool.com/tinymce\n" +
+                "\n");
+        driver.switchTo().frame("mce_0_ifr");
+        WebElement textbox=driver.findElement(By.id(""));
+
+
+    }
+    @Test
     public void htmlPopup() throws InterruptedException {
         driver.get("https://www.primefaces.org/showcase/ui/overlay/confirmDialog.xhtml\n" +
                 "\n");
@@ -60,4 +69,6 @@ public class PopupAndAlertsExamples {
         } catch (NoAlertPresentException e) {
             e.printStackTrace();
         }
-}}
+}
+
+}

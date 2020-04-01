@@ -1,4 +1,4 @@
-package com.cybertek.tests.WebElement;
+package com.cybertek.tests.day10_WebElement;
 
 import com.cybertek.utilities.WebDriverFactory;
 import org.openqa.selenium.By;
@@ -11,11 +11,11 @@ import org.testng.annotations.Test;
 
 public class CheckboxwsTest {
     WebDriver driver;
-    private WebDriverFactory WebDriveFactory;
+
 
     @BeforeMethod
     public void beforeMethod(){
-        driver= WebDriveFactory.getDriver("chrome");
+        driver= WebDriverFactory.getDriver("chrome");
         driver.get("http://practice.cybertekschool.com/checkboxes");
     }
     @AfterMethod
